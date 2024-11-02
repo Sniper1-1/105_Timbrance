@@ -1,6 +1,6 @@
 
 # 105_Timbrance
-Adds a wasteland (mostly) vanilla-like moon to Lethal Company. ([Discord link](https://discord.com/channels/1168655651455639582/1245084720614604873))
+Adds a valley (mostly) vanilla-like moon to Lethal Company. ([Discord link](https://discord.com/channels/1168655651455639582/1245084720614604873))
 
 
 
