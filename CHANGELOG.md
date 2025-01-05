@@ -1,6 +1,14 @@
 
 ---
 
+**<details><summary>Version 0.1.5</summary>**
+
+ - Removed an object I was using for a position reference. Oops.
+ 
+ </details>
+
+---
+
 **<details><summary>Version 0.1.4</summary>**
 
  - Dock more cruiser accessible.
