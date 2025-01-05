@@ -1,6 +1,14 @@
 
 ---
 
+**<details><summary>Version 0.1.4</summary>**
+
+ - Dock more cruiser accessible.
+ 
+ </details>
+
+---
+
 **<details><summary>Version 0.1.3</summary>**
 
  - Flattened underside of river to allow better compatability with [Biodiversity](https://thunderstore.io/c/lethal-company/p/super_fucking_cool_and_badass_team/Biodiversity/). (Thanks for helping me figure out how to do that)
