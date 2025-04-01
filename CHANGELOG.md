@@ -1,6 +1,14 @@
 
 ---
 
+**<details><summary>Version 0.1.6</summary>**
+
+ - Readme pics.
+ 
+ </details>
+
+---
+
 **<details><summary>Version 0.1.5</summary>**
 
  - Removed an object I was using for a position reference. Oops.

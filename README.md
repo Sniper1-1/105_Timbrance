@@ -11,7 +11,9 @@ Adds a valley (mostly) vanilla-like moon to Lethal Company. ([Discord link](http
 > **POPULATION:** Abandoned<br>
 > **CONDITIONS:** An abandoned bunker in the woods.<br>
 > **FAUNA:** Diverse.
-![View of facility from dock](https://imgur.com/wD371uK.png)
+![View of facility from dock](https://imgur.com/0BZZiGd.png)
+![View of dock from hill](https://imgur.com/ngQtk3E.png)
+![View from tower](https://imgur.com/bJ11qQ5.png)
 
 </details>
 
