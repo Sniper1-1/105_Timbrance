@@ -1,6 +1,18 @@
 
 ---
 
+**<details><summary>Version 0.1.8</summary>**
+
+ - Added moon video.
+ - Changed box mesh.
+ - Tweaked one fire exit building.
+ - Tweaked dock.
+ - Added Giant Sapsucker spawn.
+ 
+ </details>
+
+---
+
 **<details><summary>Version 0.1.7</summary>**
 
  - Icon updated.
